@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Sunshine</string>
+    <string name="map_location">Map Location</string>
+    <string name="setting">Setting</string>
+    <string name="show_subtitle">Show Subtitle</string>
+    <string name="hide_subtitle">Hide Subtitle</string>
+    <string name="subtitle_format">%l$d Weathers</string>
+    <string name="share">Share</string>
+    <string name="mess">Message</string>
+    <string name="hua">Fahrenheit</string>
+    <string name="she">Celsius</string>
+</resources>

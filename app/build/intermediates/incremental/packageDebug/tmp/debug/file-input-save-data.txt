@@ -1,0 +1,11 @@
+#Internal package file, do not edit.
+#Tue Jan 14 21:13:59 CST 2020
+1.base=F\:\\wealtherforecast\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out
+0.baseType=DIRECTORY
+1.baseType=DIRECTORY
+count=2
+1.set=DEX
+0.path=province.json
+0.set=ASSET
+0.base=F\:\\wealtherforecast\\app\\build\\intermediates\\merged_assets\\debug\\out
+1.path=classes.dex

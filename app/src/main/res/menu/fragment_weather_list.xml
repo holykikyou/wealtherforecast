@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/share"
+        android:icon="@drawable/share"
+        android:title="@string/share"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/mass"
+        android:icon="@drawable/mess"
+        android:title="@string/mess"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/map_location"
+        android:title="@string/map_location"
+        app:showAsAction="withText" />
+    <item
+        android:id="@+id/setting"
+        android:title="@string/setting"
+        app:showAsAction="withText" />
+</menu>
